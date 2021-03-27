@@ -1,3 +1,5 @@
 Vic:   Hey Mer, what are you up to?
 Merlin: Struggling with git how about you?
 Vic: Same here, wish Juligit was here to help us... *cries*
+
+Merlin: Ok my final push!
