@@ -1,1 +1,2 @@
 Vic:   Hey Mer, what are you up to?
+Merlin: Struggling with git how about you?
